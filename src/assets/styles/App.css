@@ -1,3 +1,11 @@
+/* Import google font */
+@import url("https://fonts.googleapis.com/css2?family=Doppio+One&display=swap");
+
+body {
+  background-color: #efe7a0;
+  font-family: "Doppio One", sans-serif;
+}
+
 .App {
   text-align: center;
 }
